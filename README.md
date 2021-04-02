@@ -1,5 +1,5 @@
 
-# | vscode
+# vscode
 
  rainbow csv
 - Highlight CSV and TSV files, Run SQL-like queries
@@ -42,7 +42,7 @@ Settings Sync
 - https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
 
 
-## | vscode-js
+# vscode-js
 
 Babel JavaScript
 - Babel JavaScript
@@ -63,8 +63,12 @@ vscode-styled-components
 - https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
 
 
-## | vscode-python
+# vscode-python
 
 Pylance
 - A performant, feature-rich language server for Python in VS Code
 - https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
+
+
+
+---
