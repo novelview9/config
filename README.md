@@ -1,3 +1,4 @@
+
 ## vscode
 
 #### rainbow csv
@@ -27,10 +28,8 @@
 - https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
 
----
 
-
-### vscode-js
+## vscode-js
 
 #### Babel JavaScript
 - Babel JavaScript
@@ -40,10 +39,9 @@
 - Integrates ESLint JavaScript into VS Code.
 - https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 
----
 
 
-### vscode-python
+## vscode-python
 
 #### Pylance
 - A performant, feature-rich language server for Python in VS Code
