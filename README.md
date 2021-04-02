@@ -1,73 +1,67 @@
 
 # vscode
 
- rainbow csv
-- Highlight CSV and TSV files, Run SQL-like queries
-- https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv
+ rainbow csv https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv
 
-prettier
-- Code formatter using prettier
-- https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+>  Highlight CSV and TSV files, Run SQL-like queries
 
-Hide Gitignored
-- Hide files from the Explorer panel that match the patterns in .gitignore
-- https://marketplace.visualstudio.com/items?itemName=npxms.hide-gitignored
+prettier https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+> Code formatter using prettier
 
 
-Auto Rename Tag
-- Auto rename paired HTML/XML tag
-- https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+Hide Gitignored https://marketplace.visualstudio.com/items?itemName=npxms.hide-gitignored
+> Hide files from the Explorer panel that match the patterns in .gitignore
 
 
-Command Runner
-- vscode custom shell command runner
-- https://marketplace.visualstudio.com/items?itemName=edonet.vscode-command-runner
-
-Live Share
-- Real-time collaborative development from the comfort of your favorite tools.
-- https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
+Auto Rename Tag https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+> Auto rename paired HTML/XML tag
 
 
-Shortcut Menu Bar
-- Add handy buttons like beautify, show opened files, save, toggle terminal, activity bar etc to editor menu bar. User-defined buttons are also possible.
-- https://marketplace.visualstudio.com/items?itemName=jerrygoyal.shortcut-menu-bar
+Command Runner https://marketplace.visualstudio.com/items?itemName=edonet.vscode-command-runner
+> vscode custom shell command runner
+
+Live Share https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
+> Real-time collaborative development from the comfort of your favorite tools.
 
 
-Vim
-- Vim emulation for Visual Studio Code
-- https://marketplace.visualstudio.com/items?itemName=vscodevim.vim
+Shortcut Menu Bar https://marketplace.visualstudio.com/items?itemName=jerrygoyal.shortcut-menu-bar
+> Add handy buttons like beautify, show opened files, save, toggle terminal, activity bar etc to editor menu bar. User-defined buttons are also possible.
 
-Settings Sync
-- Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
-- https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
+
+Vim https://marketplace.visualstudio.com/items?itemName=vscodevim.vim
+> Vim emulation for Visual Studio Code
+
+Settings Sync https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
+> Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
+
+ngrok for VSCode https://marketplace.visualstudio.com/items?itemName=philnash.ngrok-for-vscode
+> A VSCode extension to control ngrok from the command palette.
+
+
 
 
 # vscode-js
 
-Babel JavaScript
-- Babel JavaScript
-- https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel
+Babel JavaScript https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel
+> Babel JavaScript
 
-ESLi
-- Integrates ESLint JavaScript into VS Code.
-- https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+ESLit https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+> Integrates ESLint JavaScript into VS Code.
 
 
-sort-imports
-- Sort ES6 imports automatically.
-- https://marketplace.visualstudio.com/items?itemName=amatiasq.sort-imports
+sort-imports https://marketplace.visualstudio.com/items?itemName=amatiasq.sort-imports
+> Sort ES6 imports automatically.
 
 
-vscode-styled-components
-- Syntax highlighting for styled-components
-- https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
-
+vscode-styled-components https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
+> Syntax highlighting for styled-components
+> 
 
 # vscode-python
 
-Pylance
-- A performant, feature-rich language server for Python in VS Code
-- https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
+Pylance https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
+> A performant, feature-rich language server for Python in VS Code
+
 
 
 
